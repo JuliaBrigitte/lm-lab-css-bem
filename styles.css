@@ -4,4 +4,34 @@ img {
     max-width: 200px;
 }
 
+.card {
+    display: inline-block;
+    border-style: dashed;
+    border-radius: 1rem;
+    padding: 1rem;
+    marging: 5rem;
+    border-width: thick;
+}
+
+.card__good {
+    border-color: blue;
+    background-color: aliceblue;
+}
+
+.card__good--extra {
+    border-color: darkred;
+    background-color: gold;
+}
+
+.card__evil {
+    border-color: black;
+    background-color: darkslategrey;
+}
+
+.card__evil--faded {
+    border-color: deeppink;
+    background-color: lightgrey;
+}
+
+
 /* Happy coding! */
