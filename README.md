@@ -1,6 +1,6 @@
 # My solution
 
-![Screenshot of result](https://github.com/JuliaBrigitte/lm-lab-css-bem/blob/main/img/CSS-bem.png)
+![Screenshot of result](https://github.com/JuliaBrigitte/lm-lab-css-bem/blob/main/images/CSS-bem.png)
 
 # BEM Notation and Object Oriented CSS
 
