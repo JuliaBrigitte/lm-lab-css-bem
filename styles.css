@@ -1,18 +1,20 @@
-/* You can delete / re-write this img class  */
 
 img {
     max-width: 200px;
 }
 
+/* Base card definition */
 .card {
     display: inline-block;
     border-style: dashed;
     border-radius: 1rem;
     padding: 1rem;
-    marging: 5rem;
+    margin: 1rem;
     border-width: thick;
+    box-shadow: 5px 10px #888888;
 }
 
+/* Add on styles for card */
 .card__good {
     border-color: blue;
     background-color: aliceblue;
