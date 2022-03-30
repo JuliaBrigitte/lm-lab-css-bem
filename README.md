@@ -1,3 +1,7 @@
+# My solution
+
+![Screenshot of result](https://github.com/JuliaBrigitte/lm-lab-css-bem/blob/main/img/CSS-bem.png)
+
 # BEM Notation and Object Oriented CSS
 
 A project on how to write scaleable CSS using BEM notation and OOCSS
